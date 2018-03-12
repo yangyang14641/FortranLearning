@@ -1,0 +1,6 @@
+ &MYLIST
+ I =         -111
+ STRING = 'Test 1.'
+ STRING = 'Different!'
+ B =     123456.
+ /

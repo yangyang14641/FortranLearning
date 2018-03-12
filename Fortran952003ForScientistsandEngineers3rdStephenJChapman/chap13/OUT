@@ -1,0 +1,19 @@
+
+Enter the file name with input data set: 
+data
+
+Calling extremes with all arguments:
+  Largest Value =                  34.000
+  Position of Largest Value =           2
+  Smallest Value =                -21.100
+  Position of Smallest Value =          3
+
+Calling extremes with all arguments in arbitrary order:
+  Largest Value =                  34.000
+  Position of Largest Value =           2
+  Smallest Value =                -21.100
+  Position of Smallest Value =          3
+
+Calling extremes without positon args:
+  Largest Value =                  34.000
+  Smallest Value =                -21.100
